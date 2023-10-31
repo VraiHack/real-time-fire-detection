@@ -1,10 +1,11 @@
 ### real-time-fire-detection
 -----------------------------------------------------------------------------------------------------------------------------------
-This project allow to detect fire in many ways:
+This matlab project allow you to creat a fire detection in many ways:
 
-1- real-time from your laptop camera.
+1- real-time fire-detection from your laptop camera.
 
-2- From an uploaded video.
+2- And fire-detection from video.
 
-This is a detailed report that explain the steps i followed to achieve the objective
+This is a detailed report that explain the steps i followed to achieve the objective:
+
 
