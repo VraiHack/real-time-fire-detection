@@ -6,7 +6,6 @@ This matlab project allow you to creat a fire detection in many ways:
 
 2- And fire-detection from video.
 
-This is a detailed report that explain the steps i followed to achieve the objective:
-Report: [Click-Me](https://github.com/VraiHack/real-time-fire-detection/blob/main/Fire-detection-using-MATALB-image-processing.pdf)
+This is a detailed Report: [Click-Me](https://github.com/VraiHack/real-time-fire-detection/blob/main/Fire-detection-using-MATALB-image-processing.pdf) that explain the steps i followed to achieve the objective:
 
 
